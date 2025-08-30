@@ -1,2 +1,2 @@
 ##Text
-print("Goodbye World")
+print("Goodbye pancakes")
